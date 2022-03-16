@@ -1,0 +1,16 @@
+{
+	"firstName": "Gourav",
+	"lastName": "Vig",
+	"address": [
+		{
+			"street": "abc",
+			"city": "xyz",
+			"state": "jkl"
+		},
+		{
+			"street": "asd",
+			"city": "qwe",
+			"state": "zxc"
+		}
+	]
+}
